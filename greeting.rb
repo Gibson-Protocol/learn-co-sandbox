@@ -2,4 +2,4 @@ def greeting(name)
   puts "Hello, #{name}"
 end
 
-greeting("Sophie", "Ruby")
+greeting=("Sophie", "Ruby")
